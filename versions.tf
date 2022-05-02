@@ -1,7 +1,6 @@
 terraform {
-
-  cloud {
 /*
+  cloud {
     organization = "saccalb"
 
     workspaces {
